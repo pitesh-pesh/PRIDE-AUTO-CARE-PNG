@@ -1,0 +1,6 @@
+{
+  "name": "Pride Auto Care PNG",
+  "description": "Premium High-End Manual & Eco-Foam Car Wash based in Port Moresby. Features booking, digital loyalty, live deals, and interactive operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
